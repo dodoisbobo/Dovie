@@ -1,0 +1,70 @@
+{
+  "Film" : {
+    "Frozen 2" : {
+      "desc" : "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "director" : "Jennifer Lee, Chris Buck",
+      "genre" : "Fantasy, Family",
+      "title" : "Frozen 2",
+      "play" : {
+        "thomas" : {
+          "name" : "thomas",
+          "url" : "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster" : "https://upload.wikimedia.org/wikipedia/en/4/4f/Frozen_2_poster.jpg",
+      "rating" : "8.5"
+    },
+    "Mulan" : {
+      "desc" : "To save her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man to battle northern invaders in China.",
+      "directors" : "Jake Weiner, Jason Reed",
+      "genre" : "Animation",
+      "title" : "Mulan",
+      "play" : {
+        "ariel" : {
+          "name" : "ariel",
+          "url" : "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster" : "https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg",
+      "rating" : "7.3"
+    },
+    "Hustlers" : {
+      "desc" : "Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.",
+      "director" : "Lorene Scafaria",
+      "genre" : "Crime",
+      "title" : "Hustlers",
+      "play" : {
+        "ariel" : {
+          "name" : "ariel",
+          "url" : "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster" : "https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "rating" : "6.4"
+    },
+    "Midway" : {
+      "desc" : "The story of the Battle of Midway, told by the leaders and the sailors who fought it.",
+      "director" : "Roland Emmerich",
+      "genre" : "Action",
+      "title" : "Midway",
+      "play" : {
+        "ariel" : {
+          "name" : "ariel",
+          "url" : "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster" : "https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_SY1000_SX800_AL_.jpg",
+      "rating" : "6.9"
+    }
+  },
+  "User" : {
+	"dodo": {
+    "email" : "bagicode@gmail.com",
+    "name" : "Fernando Setio",
+    "password" : "admin123",
+    "balance" : "500000",
+    "url" : "https://yt3.ggpht.com/a/AGF-l79H3wIgvBVl0bD5No1VMvfjo_DuhdPjQXWfvw=s288-c-k-c0xffffffff-no-rj-mo",
+    "username" : "dodo"
+	} 
+  }
+}

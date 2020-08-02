@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dovie</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="getStarted">Get Started</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="NPdesc">Learn about the most happening\nmovies on a single tap</string>
+    <string name="book_anytime">Book anytime</string>
+    <string name="BAdesc">Feels like watching movies?\nBook with us anytime you want</string>
+    <string name="cashless">Cashless</string>
+    <string name="CAdesc">Use e-wallet to purchase any ticket</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="photo">Photo</string>
+    <string name="welcome">Welcome,\nFernando Setio</string>
+    <string name="ctn">Continue</string>
+    <string name="coming_soon">COMING SOON</string>
+    <string name="choose_seat">Choose Seats</string>
+    <string name="purchase">Purchase</string>
+    <string name="check_out">Check Out</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="history">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="purchase_success">Your purchase is successful</string>
+    <string name="purch_suc_desc">Thank you for purchasing,\nenjoy your movie.</string>
+    <string name="home">Home</string>
+    <string name="cinema">Cinema</string>
+    <string name="seat">Seats</string>
+    <string name="when">When</string>
+    <string name="qr_desc">You can scan this code\nat available counters</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+
+</resources>

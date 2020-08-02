@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400653278236",
+    "firebase_url": "https://dovie-669bc.firebaseio.com",
+    "project_id": "dovie-669bc",
+    "storage_bucket": "dovie-669bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400653278236:android:fee3d9f7ea71e01549d3d9",
+        "android_client_info": {
+          "package_name": "com.dodosetio.dovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400653278236-ffbe0mquc22h2rbji80vo2ui6tkpunkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dodosetio.dovie",
+            "certificate_hash": "c7ed38bb8d3b8a825315b95d6c1ec7dcfa54edd7"
+          }
+        },
+        {
+          "client_id": "400653278236-ljej8n0mguo7caostvk75q5tn6a0pfq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmk1B-_8-VhbdZiQsGrADGm-FuC5FFvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400653278236-ljej8n0mguo7caostvk75q5tn6a0pfq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

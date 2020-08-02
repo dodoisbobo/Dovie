@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dodosetio.dovie">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission-sdk-23 android:name="android.permission.CAMERA" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.noActionBar">
+        <activity android:name=".home.ticket.TicketDetail"></activity>
+        <activity android:name=".home.ticket.ScanQR"></activity>
+        <activity android:name=".checkout.CheckOutSuccess" />
+        <activity android:name=".checkout.CheckOutActivity" />
+        <activity android:name=".moviedetail.MovieDetailActivity" />
+        <activity android:name=".home.HomeActivity" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".MyWallet" />
+        <activity android:name=".History" />
+        <activity android:name=".Onboarding.Onboarding1" />
+        <activity android:name=".Onboarding.Onboarding2" />
+        <activity android:name=".Onboarding.Onboarding3" />
+        <activity android:name=".sign_in_out.signin.SignIn" />
+        <activity android:name=".sign_in_out.signup.SignUp" />
+        <activity android:name=".sign_in_out.signup.SignUpPhoto" />
+        <activity android:name=".checkout.ChooseSeat" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
