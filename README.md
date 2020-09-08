@@ -1,5 +1,5 @@
 # Dovie
-reference from BWAMov project by Build With Angga and Robby dianputra
+A booking ticket app that allows user to buy ticket with a tap.
 
 ## What is included
 1. Onboarding SplashScreen
